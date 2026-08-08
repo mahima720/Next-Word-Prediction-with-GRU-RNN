@@ -5,6 +5,7 @@ This repository features a Gated Recurrent Unit (GRU) Deep Learning model built 
 # 🔗 Live Demo
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://next-word-prediction-with-gru.streamlit.app/)
 
+
 ![UI](/images/image1.png)
 ![UI](/images/image2.png)
 
